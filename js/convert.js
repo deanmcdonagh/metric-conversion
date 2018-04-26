@@ -9,10 +9,11 @@
   var myAlert = 'please enter a value';
 
 //Convert Feet to Metres
-function feeToMetres() {
-
-
+function feetToMetres() {
+  
+  
 }
+
 //Convert Inches to Centimetres
 function inchesToCentimetres(){
 	
@@ -25,6 +26,9 @@ function YardsToMetres () {
 function MilesToKilomtres () {
 	
 }
+
+feetToMetres ();
+
 
 console.log="message"; 
 document.getElementById("resultsentence").innerHTML = message; 
